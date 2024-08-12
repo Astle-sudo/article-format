@@ -28,6 +28,7 @@
 
 ## Conclusion
 
+- Mention why you were interested in this topic, add some personal touch 
 - Conclude, email for doubts/corrections or further enquiry
 - Mention furhter readings
 
