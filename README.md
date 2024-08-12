@@ -1,6 +1,6 @@
 # Article Format
 
-## Introduction
+**Introduction**
 
 - A good view of the field, concept or topic
 - The aim of this article
